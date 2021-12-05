@@ -14,4 +14,4 @@ print(first ^ second) # Opposite to intersection
 if 1 in first:
     print('Yes')
 
-# Unlike lists, Sets doesn't support indexing
+# Unlike lists, Sets doesn't support indexing as elements in sets are not in a particular order
