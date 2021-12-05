@@ -1,0 +1,11 @@
+We use modules to manage our code in a proper way by dividing each block or group of blocks
+into different python files and then importing them when needed.
+This makes our code easy to manage and easy to reuse our code in different python files.
+
+There are 2 different ways to Import a python file
+1) Importing the whole python file
+2) Importing a particular function from a python file
+
+Syntax of both methods:
+1) import "Python File Name"
+2) from "Python File Name" import "Function/Method Name"

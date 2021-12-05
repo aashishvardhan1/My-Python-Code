@@ -1,0 +1,12 @@
+We use classes to define new types
+We Have already learnt about inbuilt types like Numbers, Strings, Boolean.
+We also learnt about Complex types like lists, tuples, Dictionaries.
+But for a type like credit Card it doesn't belong to any of the above category
+so we cannot apply the functions that are in built.
+So inorder to define new methods that are useful in daily life applications,
+we Create Classes to define these type of methods that are suitable
+
+As like a list has many methods like append, clear, copy, count, insert etc.
+We are going to create a new type of class and define its own methods to work with.
+
+Point is the class we are going to create. the methods are get_distance, move, draw etc.

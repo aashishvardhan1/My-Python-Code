@@ -1,0 +1,9 @@
+All about PyPI aka Python Package Index
+Pip is command to install or uninstall a Package from PyPI Website.
+
+PyPI is large website where python developers post their work to make usable to us.
+We can directly install the python package and use it as a built-in package like random/pylib
+
+To install them you need to see the code line in the PyPI website and then type out that code on
+the terminal of Pycharm/ Your IDE.
+Then immediately the package would be installed. So, now the package ready for our usage.
